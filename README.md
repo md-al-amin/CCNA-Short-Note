@@ -1,5 +1,5 @@
 # CCNA-Short-Note
-Cisco Switch Router Configuration
+Cisco Switch Router Configuration Note
 > Basic Configuration
 > Switch Configuration (VLAN,STP, Etherchannel)
 > Router Configuration (Static, RIP, EIGRP,OSPF)
