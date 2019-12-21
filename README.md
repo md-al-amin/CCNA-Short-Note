@@ -6,6 +6,6 @@ Cisco Switch Router Configuration Note
 > NAT,ACL,PPP,FRAME Relay.
 >Link: https://github.com/md-al-amin/CCNA-Short-Note
 
-*** This PDF is collected from internet.
+
 Md Al-Amin.
 mdalaminbangladesh@gmail.com
